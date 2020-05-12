@@ -4,4 +4,4 @@ Band filter is applied to reduce the noise of images. Band filter is applied to 
 
 
 This is collections of codes employed to recognize particles. The filter and particle localization part is from another group.The seperation of two molecules in this stochastic porcess are poisson process. Data analysis and data modeling of the molecules' seperation process are performed to get the efftive binding time of molecules. The efftive binding time for two different catalysts are shown as below.
-![alt text](poisson_process.png)
+![alt text](poisson_process.png=100x30)
