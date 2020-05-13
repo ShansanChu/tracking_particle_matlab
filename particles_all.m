@@ -1,4 +1,6 @@
 function stat_sort=all_p(im,th,sz)
+% extract all particles found from video
+% calculate life time of every shining molecule
 pk_all=[];
 a=double(imread('CAT1_10-11 7.503ms_25s_0thiol00021.gif'));
 [~,~,~,N]=size(a);
