@@ -1,3 +1,4 @@
+function stat_sort=all_p(im,th,sz)
 pk_all=[];
 a=double(imread('CAT1_10-11 7.503ms_25s_0thiol00021.gif'));
 [~,~,~,N]=size(a);
@@ -55,3 +56,4 @@ for j=1:i
     end
 end
 stat_sort=sort(pk_final,3);
+end
